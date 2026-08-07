@@ -35,6 +35,7 @@
 ### 📌 Projetos em destaque
 
 - [pomodoro-timer](https://github.com/Celso-RochaTi/pomodoro-timer) — Timer Pomodoro feito em HTML, CSS e JavaScript puro.
+- [weather-app](https://github.com/Celso-RochaTi/weather-app) — Previsão do tempo em tempo real consumindo a API Open-Meteo.
 
 ---
 
