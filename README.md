@@ -35,9 +35,9 @@
 
 ### 📌 Projetos em destaque
 
-- [pomodoro-timer](https://github.com/Celso-RochaTi/pomodoro-timer) — Timer Pomodoro feito em HTML, CSS e JavaScript puro.
+- [pomodoro-timer](https://github.com/Celso-RochaTi/pomodoro-timer) — Timer Pomodoro feito em HTML, CSS e JavaScript puro. [🔗 Demo](https://celso-rochati.github.io/pomodoro-timer/)
 - [weather-app](https://github.com/Celso-RochaTi/weather-app) — Previsão do tempo em tempo real consumindo a API Open-Meteo.
-- [task-manager](https://github.com/Celso-RochaTi/task-manager) — Lista de tarefas em React com persistência local.
+- [task-manager](https://github.com/Celso-RochaTi/task-manager) — Lista de tarefas em React com persistência local. [🔗 Demo](https://task-manager-80e50tzfj-celso-rochatis-projects.vercel.app)
 
 ---
 
