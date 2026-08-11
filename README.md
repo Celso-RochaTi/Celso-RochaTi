@@ -14,10 +14,10 @@
 
 ### 🚀 Sobre mim
 
-- 🔭 Atualmente estudando desenvolvimento web (HTML, CSS, JavaScript)
+- 🔭 Atualmente estudando Engenharia de Software e desenvolvimento web (HTML, CSS, JavaScript)
 - 🌱 Aprendendo e evoluindo a cada projeto novo
 - 💬 Pergunte-me sobre HTML, CSS, JavaScript
-- 📫 Como me encontrar: adicione aqui seu e-mail, LinkedIn ou outro contato
+- 📫 Como me encontrar: celsoricard.rocha@gmail.com, www.linkedin.com/in/celso-rocha-ti
 
 ---
 
