@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Celso 👋</h1>
 
 <p align="center">
-  Desenvolvedor(a) em formação, construindo projetos para aprender e evoluir na programação.
+  Desenvolvedor em formação, construindo projetos para aprender e evoluir na programação.
 </p>
 
 <p align="center">
